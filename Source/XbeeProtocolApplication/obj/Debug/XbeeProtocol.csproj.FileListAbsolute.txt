@@ -1,0 +1,14 @@
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\bin\Debug\ModulesSearch.resx
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\bin\Debug\ModulesSearch.cs
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\bin\Debug\ModulesSearch.Designer.cs
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\bin\Debug\LmptXbeeProtocol.exe.config
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\bin\Debug\LmptXbeeProtocol.exe
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\bin\Debug\LmptXbeeProtocol.pdb
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\obj\Debug\XbeeProtocol.csprojAssemblyReference.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.DataSampling.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.ModulesSearch.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\obj\Debug\LmptProtocol.Properties.Resources.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\obj\Debug\XbeeProtocol.csproj.GenerateResource.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\obj\Debug\XbeeProtocol.csproj.CoreCompileInputs.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\obj\Debug\LmptXbeeProtocol.exe
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\LmptXbeeProtocolApplication\obj\Debug\LmptXbeeProtocol.pdb

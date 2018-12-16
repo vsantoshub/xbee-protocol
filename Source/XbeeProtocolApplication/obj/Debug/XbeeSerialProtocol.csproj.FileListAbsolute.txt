@@ -1,0 +1,14 @@
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\bin\Debug\ModulesSearch.resx
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\bin\Debug\ModulesSearch.cs
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\bin\Debug\ModulesSearch.Designer.cs
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.DataSampling.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.ModulesSearch.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.csproj.GenerateResource.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.csproj.CoreCompileInputs.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\bin\Debug\XbeeSerialProtocol.exe.config
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\bin\Debug\XbeeSerialProtocol.exe
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\bin\Debug\XbeeSerialProtocol.pdb
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.csprojAssemblyReference.cache
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.Properties.Resources.resources
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.exe
+C:\Users\Santos\Documents\Github\victorsantosdev\Windows-User-Interfaces\Protocolo\Source\XbeeProtocolApplication\obj\Debug\XbeeSerialProtocol.pdb
